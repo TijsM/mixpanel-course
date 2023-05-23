@@ -29,18 +29,18 @@ Important to know when the user experiences the value from you product.
 - Subscription
 
   - Users pay a fixed price per unit of time
-  - eg. Netflix - 10 euro for an unlimited amout of movies
+  - eg. Netflix - 10 euro for an unlimited amount of movies
 
 - Licensing
 
   - Users pay a license fee to use, sell, or copy a product.
-  - eg. Mapbox - monthlee fee to develop to use the software.
+  - eg. Mapbox - monthly fee to develop to use the software.
 
 - Freemium
   - part free, part paid
   - eg. Spotify
 
-Non monetaire ways of getting back value
+Non monetary ways of getting back value
 
 - User's attention
 
@@ -48,7 +48,7 @@ Non monetaire ways of getting back value
   - eg. YouTube
 
 - User's data
-  - gathering date to learn patterns about users
+  - gathering data to learn patterns about users
   - eg. Google
 
 _Insights_
@@ -56,20 +56,20 @@ _Insights_
 Important to understand the user and it's willingness to pay.
 This can differ in different segments of users.
 
-Willingess to pay can very over time. Certing external or macro economical factors can impact the user's willingbess to pay
+Willingness to pay can very over time. Certain external or macro economical factors can impact the user's Willingness to pay
 
 - eg. covid
-- eg. high gass prices
+- eg. high gas prices
 - ...
 
 ### Measuring product value
 
-Hard to measure how the users perceived that value of your application, this is often "Fuzy". We need to make this more measureable by making some assumptions.
+Hard to measure how the users perceived that value of your application, this is often "Fuzzy". We need to make this more measurable by making some assumptions.
 
 - eg. How much fun and entertainment users are getting from a video streaming service
 
   - how much videos does a user watch a day/week/month
-  - how long does the user wactch videos
+  - how long does the user watches videos
 
 In some cases, the assumptions are too risky and qualitative feedback will be needed on top of the quantitative feedback gathered by Analytics tools. When combine both of these researches we can jump to conclusions.
 
@@ -110,7 +110,7 @@ _setup moments_
 
 Moments that a user needs to perform before they can come to the value moment
 
-Setup moments should be kept as low as possible as user's might dropof before experiencing the value moment.
+Setup moments should be kept as low as possible as user's might drop-off before experiencing the value moment.
 
 examples
 
@@ -124,7 +124,7 @@ examples
 
 [TODO] mixpanel course on defining north start metrics -> https://mixpanel.com/content/guide-to-product-metrics/full-report/
 
-Value moments are building blocks to good product adoption. The more value moments, the more oportunities to build a habit for the user.
+Value moments are building blocks to good product adoption. The more value moments, the more opportunities to build a habit for the user.
 
 _North Star metric or Focus metric_
 
@@ -203,7 +203,7 @@ LTV
 
 ARR/ MRR
 
-- annual recurring revenue/ montly recurring revenue
+- annual recurring revenue/ monthly recurring revenue
 
 All these metrics, alongside DAU/WAU/MAU give a good overall indicator of the health of your company/ product. It is important that have a clear and strict definition of Active. If not DAU/WAU/MAU will become a vanity metric.
 
@@ -227,7 +227,7 @@ Looking at the churn of these users is really important here. It is more valuabl
 
 ### ❌ DAU/WAU/MAU for product benchmarking
 
-It is hard to compare Active users troughout apps for severall reasons
+It is hard to compare Active users throughout apps for several reasons
 
 1. Companies define "Active" differently
 2. Different industries need different benchmarking
