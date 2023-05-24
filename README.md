@@ -292,3 +292,64 @@ The type of users you have will have impact on the preferred monetization model 
 - operating system
 - region
 - monthly vs yearly subscribers
+
+# Chapter 5: retain your users
+
+## Where are my users dropping off?
+
+> "Users are more likely to retain when they successfully experience value in your product early and often."
+
+### Big drop-off points
+
+1. Registration/ onboarding
+
+There should be a minimum amount of steps before the user get's to the value of the app. If there is a cumbersome registration flow or a lengthy onboarding, the user might drop off before even using the app.
+
+2. The value moment
+
+The promised value of the application is not what the user expected.
+
+3. The value exchange
+
+The value exchange moment is where you ask something from your user (monetization)
+
+## Should B2B and B2C companies measure drop off on their user’s path to value differently?
+
+No, the users of the applications are still regular people who decide if the subscriptions should be renewed. Drop off should be measured the same.
+
+## How can I measure user drop off?
+
+### Setup Funnels
+
+The most important funnel to keep track of is the one from **first time opening the app** towards the **first value moment**.
+
+Now we can detect where we can improve our user drop off.
+
+## Why should I measure retention?
+
+> “Does my product bring value to users–over and over and over again?”
+
+Low churn and high retention rate are two sides of the same coin—and reliable signals of lasting product success.
+
+### mistakes when defining retention metrics.
+
+**Focus on revenue**
+
+The monthly revenue of a SaaS company is not an indicator of retention. You can loose a lot of users but gain even more because of marketing efforts. this is not sustainable.
+
+**Choosing the wrong frequency**
+
+More info in the "What is my product usage interval?" section above.
+
+**Failure to tie retention back to value**
+Your retention metric should reflect the number of retained users who experience value.
+
+## How do I measure retention?
+
+N Day retention
+
+- calculates the percentage of users who come back on a specific day.
+
+Unbounded retention
+
+- calculates the percentage of users who come back on a specific day (or week, month, etc.) or any time unit afterwards.
