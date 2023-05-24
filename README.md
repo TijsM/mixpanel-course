@@ -240,3 +240,55 @@ DAU/WAU/MAU can be a health indicator of your product. But growing DAU can be ca
 - Exposure
 - Seasonal changes
 - ...
+
+# Chapter 4: Analyze user engagement
+
+## What is my product usage interval?
+
+There is no interval of desired usage intervals for every app. It highly depends on the industry the app is in.
+
+| Industry     | Examples             | Interval         | Value moment                            | Context                                                                |
+| ------------ | -------------------- | ---------------- | --------------------------------------- | ---------------------------------------------------------------------- |
+| Contact      | Gmail, Slack, Teams  | Hourly           | Refreshing/ answering a message         | Expected to use these tools on a constant base throughout the day      |
+| Social Media | Facebook, TikTok     | Daily            | Viewing and interacting with a post     | To create a habit in this scene, frequent user engagement is necessary |
+| Health       | Allan, MCC           | Monthly - weekly | Booking a Doctor via the app.           | The user does not need to use the app frequently to find it valuable   |
+| Sport        | Rodi, Komoot, Strava | Weekly           | Logging a sport session through the app | Logging a sport activity daily is physically difficult.                |
+
+## Who are my power/core/casual users?
+
+Determine what event is your "AHA moment", and see what type of users are in the top
+
+- 10% -> power user
+- 20% - 50% -> core users
+- 50% - 90% -> casual users
+- (below - one time users)
+
+## What is the right definition of power/core/casual users for my product
+
+### Frequency
+
+How often does a user return to the product compared to the medium.
+
+### Breadth
+
+Does a user use all the more advanced features or just the main/ core option/ feature
+
+### Depth
+
+How many times has the user experienced a value moment.
+
+## How can I tie active usage to my value exchange (monetization) model?
+
+The type of users you have will have impact on the preferred monetization model for your product.
+
+- Frequency: daily -> adds make sense as the users spend a lot of time on your platform.
+- Frequency: monthly -> monthly/ yearly subscriptions make sense.
+
+## Besides segmenting by level of engagement, how else can you analyze different groups of users with product analytics?
+
+- percentiles of activity (to identify power users)
+- free vs paid users
+- new vs existing users
+- operating system
+- region
+- monthly vs yearly subscribers
