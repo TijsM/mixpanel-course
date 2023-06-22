@@ -23,6 +23,11 @@ Summary of the free Mixpanel course: https://mixpanel.com/content/guide-to-produ
   - [How can I measure user drop off?](#how-can-i-measure-user-drop-off)
   - [Why should I measure retention?](#why-should-i-measure-retention)
   - [How do I measure retention?](#how-do-i-measure-retention)
+- [Chapter 6: Grow and scale](#chapter-6-grow-and-scale)
+  - [How do you measure growth?](#how-do-you-measure-growth)
+  - [how should your growth strategy change as you company matures?](#how-should-your-growth-strategy-change-as-you-company-matures)
+  - [How can a product manager drive growth?](#how-can-a-product-manager-drive-growth)
+  - [Where are my most valuable users coming from?](#where-are-my-most-valuable-users-coming-from)
 
 # Chapter 1: introduction
 
@@ -377,3 +382,31 @@ N Day retention
 Unbounded retention
 
 - calculates the percentage of users who come back on a specific day (or week, month, etc.) or any time unit afterwards.
+
+# Chapter 6: Grow and scale
+
+## How do you measure growth?
+
+Growth is difficult to measure
+
+- eg. Amount of user -> can be misleading because of marketing efforts/budgets.
+
+**Determine a north start metric that indicates growth**
+
+## how should your growth strategy change as you company matures?
+
+Measuring growth is even more important when your target audience moves from a niche audience to a more brought audience.
+
+In the early days you will try a lot of different things to look for PMF (product market fit) later, with the gained insides from earlier, more specific iterations will be made.
+
+## How can a product manager drive growth?
+
+Find what actions lead to value moments
+
+- eg. Facebook - a person needs 7 - 10 friends to not immediately churn
+
+> The strategy is to try and understand, as soon as possible, what a retained user regularly does and then try to get users who are not retained to form the same habits.
+
+## Where are my most valuable users coming from?
+
+By Using Mixpanel Segments you can attach a segment where the user found the product. We can later see what marketing efforts lead to the most users that didn't churn.
