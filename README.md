@@ -1,3 +1,6 @@
+# Summary of ["The Guide to Product Analytics"](https://mixpanel.com/content/guide-to-product-analytics/report/)
+
+- [Summary of "The Guide to Product Analytics"](#summary-of-the-guide-to-product-analytics)
 - [Chapter 1: introduction](#chapter-1-introduction)
 - [Chapter 2: Measure value: The foundations of product analytics](#chapter-2-measure-value-the-foundations-of-product-analytics)
   - [How does my product bring value](#how-does-my-product-bring-value)
